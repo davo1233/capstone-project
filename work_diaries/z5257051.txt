@@ -1,0 +1,30 @@
+Week 1:
+Formed teams and decided on the project idea we will be working on.
+
+Week 2:
+Set up communciation channels for the team members. Brainstormed needed features for our system as a team and refined them into user stories in preparation for the upcoming sprint.
+
+Week 3:
+Had meeting in preparation for the proposal. Completed and revised the list of user stories for the project. Organised and checked in on what each member is working on in preparation for the proposal and 1st sprint. Set up product backlog in team Jira.
+Completed the project proposal and will start development next week.
+
+Week 4:
+Started the first sprint. Had the first standup of the week where we decided upon our appraoch for the first lab demo. Delegated the tasks in the first sprint to all the team members. Spent some time looking up self-learning resources for some languages which I am less familiar with. Team was running into some issues with deciding and running a database for the backend - set that up but we are yet to connect the layers together.
+
+Week 5:
+Completed sprint 1. Conducted retrospective meeting A after completion of sprint 1 and planned out initiatives on future sprints. Otherwise had quite a packed schedule during so was not able to be very productive during the week. Will be prioritising the set up of the architecture for the system. Create the communication between the backend layer and the MySQL server.
+
+Week 6 (Flex week):
+Worked on the task creation functions. Organised a meeting to catch up everybody on the connections between layers and finally got it working. Otherwise, did not accomplish too much due to work committments.
+
+Week 7:
+Functions related to task creation, assignment and alteration was implemented. Had to delegate some of the incentive related issues to Spenser
+
+Week 8:
+Started work on subtasks and labels. Conducted team retro and evaluated what issues need to be prioritised. Started some 
+
+Week 9:
+Continued work on subtask and labels. Labels were completed. functionality of subtasks was implemented in the backend. Spent some time reorganising imports and fixing up the codebase in early preparation for submission next week.
+
+Week 10:
+Reorganisation of database schema to remove User.id as a primary key. Began work on automation of tasks but was not able to make enough progress for submission. Worked on preparation of project report and final codebase submission.

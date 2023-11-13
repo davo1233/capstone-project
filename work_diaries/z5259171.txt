@@ -1,0 +1,44 @@
+Week 1:
+Formed team and decided on team name and project.
+
+Week 2:
+Set up the required tools (Jira, github, google docs) for the project. 
+Set up weekly meeting times and daily standup times.
+Brainstormed user stories and other ideas for our project.
+
+Week 3:
+Assigned roles for group proposal.
+Started work on storyboards.
+
+Week 4:
+Finished and submitted group proposal.
+Started our first sprint.
+Assigned myself first task and started work for it.
+
+Week 5:
+Finished as much as we could.
+Presented our work to our tutor in class.
+Had a meeting to setup sprint 2.
+Did our retrospective A meeting
+
+Week 6 (Flex week):
+Did a little bit of tasks
+
+Week 7: 
+Cleaned up retrospective A and submitted
+Continued to do tasks
+
+Week 8:
+Continued to do tasks
+Presented our work to our tutor for demo B.
+Did our retrospective B meeting right after
+Had a meetinng to setup sprint 3
+
+Week 9:
+Switched over to help with frontend
+Retrospective B submitteds
+
+Week 10:
+Finished as much tasks as we could
+Presented our work to our tutor for final demo
+Worked on final report and code submission

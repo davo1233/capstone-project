@@ -1,0 +1,59 @@
+# Week 1:
+Formed teams and named our group as "ChadGPT". 
+Decided on the Task Management System project.
+
+# Week 2:
+Decided Thursdays 6-8pm as a weekly productivity meeting session and 10am standups everyday from sprint 1 (week 3).
+Discussed and brainstormed ideas on the project product.
+Wrote draft user stories together.
+Made a template for the Proposal for everyone to start working on.
+Started research on the problem domain as I've gotten allocated the Background section.
+
+# Week 3:
+Continued research on the problem domain and finished up on the Background section.
+Started research on external users of system architechure as Spenser needed help with his section.
+Finished up on the Proposal and had our Scrum master John submit it.
+
+# Week 4:
+The team gathered at a meeting and we discussed how to divide the tasks. We each picked a user story we'd like develop and started working on implementation. 
+I worked on writing pseudocode for creating a new task, editing the task, creating new labels, and editing those labels. 
+Then, since I was the team member most familiar with working with javascript and React, I researched and made up a simple version of the frontend of our app.
+I also wrote up register and login functions from the backend and researched on fastapi to have it connect with our frontend.
+
+# Week 5:
+I continued writing up functions for both backend and frontend, using dummy python variables as replacement of our database that will be implemented in the future.
+I worked on returning the list of projects a user is currently in, and adding a new user to a project from their list of connected users.
+This is still using the dummy python variable, not the database.
+We did our first demo, and although frontend was presented well, there was not much connection with the database nor the backend that we could present.
+We're not expecting too much for this demo, but we aim to reflect on ourselves on the retrospective and fix our flaws for sprint 2.
+We did our retrospective meeting and discussed things that went well, things that need improvements and how we can work on improving them.
+
+# Week 6 (Flex week):
+Worked with John to make an alpha model which connectes all 3 layers, including the database.
+Learnt and researched on how to use mysql. 
+Presented the alpha model to the rest of the group but we decided to change our method of database interaction to sqlalchemy instead of the mysql.connector.
+So, the alpha model was modified to have that change, and we have tested that the register and the login functions do work.
+Worked on creating a new document to be shared with the team that holds information on what parameter and return values are passed between the backend and the frontend so that connections between layers will be easy.
+Also worked on improving the security issue that Haowei pointed out during demo. 
+The frontend now holds an access token which will be passed around different pages of the frontend as well as backend when accessing information.
+
+# Week 7:
+Added security measures such as hiding password input. Continued working through making frontend pages as well as connecting them to the backend and that database. 
+Created the Project and the Profile page and connected corresponding fetch functions to retrieve data from the backend to be shown on frontend.
+Added a user searching method where one can type the username and access their profiles.
+Connection requests can be made for users to connect and they can add connected users to the project.
+Got ready for the demo next week.
+
+# Week 8:
+Could not show much during demo because the project page did not work. Worked to fix the error as it was due to fetching errors.
+Did retrospective B meeting with the team and discussed about issues we faced during sprint 2.
+
+# Week 9:
+Implemented better UI design by including Navigation bars, (worked this with Andrew), Better spaced inputs, consistent formatting etc.
+Gotten some royalty free icons of ants to be used as profile images and implemented it to the system.
+Added functions to change the profile ant colour and user avatars that show this image.
+
+# Week 10:
+Continued on better UI design, and functionalities such as task filtering by choosing the user avatar.
+Notifications are now implemeted as a Popover message, which not only shows connection requests but task changes and project inivitation.
+Demo was done during lab and worked on the report and improving code style.

@@ -1,0 +1,28 @@
+Week 1:
+Formed a team 'ChadGPT' and decided that we would preemptively work on the task management system project. 
+
+Week 2:
+Joined the github, moodle and the jira channels. 
+Decided on weekly meeting times on Thursday.
+Contributed to user stories and was delegated tasks to do by Sunday for the design architecture. 
+
+Week 3:
+Continued research for the design architecture and decided on the types of technologies required and wrote up information for my allocation for the report. 
+
+Week 4:
+Started the first sprint. Delegated the tasks in the first sprint where I got user creation and connections between users. Spent some time looking up how to use technologies such as SQLAlchemy and FASTApi.
+
+Week 5:
+Worked on the register and connections parts of our project and completed most aspects of the tasks assigned. 
+
+Week 6 (Flex week):
+Did our retrospective and also met up and redesigned our database code 
+Week 7:
+worked on the backend tasks such as fixing up the connections and started work on searching for project tasks
+Week 8:
+Continued work on the project tasks filter and sort and the notifications 
+Week 9:
+Had a group meeting for the 2nd retrospective where we outlined improvements we could make. Further made work on the frontend and backend for notifications plus the task sort and filter functions and completed the badges and rewards parts.
+Week 10:
+Finished notifications and met with group mates after the demo to decide on what tasks to do for the report and completed the report plus code submission. 
+

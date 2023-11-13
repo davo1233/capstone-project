@@ -22,7 +22,7 @@ Welcome to ObservANT Task Manager, a comprehensive task management system design
 
 ```bash
 git clone https://github.com/your-username/capstone-project.git
-
+```
 
 ### Installation
 
